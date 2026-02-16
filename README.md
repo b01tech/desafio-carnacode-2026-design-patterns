@@ -21,4 +21,9 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 02 - Builder](https://github.com/b01tech/balta-desafio-carnacode-2026_2-builder.git) ✅  
 - [Desafio 03 - Factory Method](https://github.com/b01tech/balta-desafio-carnacode-2026_3-factory-method.git) ✅
 - [Desafio 04 - Prototype](https://github.com/b01tech/balta-desafio-carnacode-2026_4-prototype.git) ✅
-- [Desafio 05 - Singleton](https://github.com/b01tech/balta-desafio-carnacode-2026_5-singleton.git)  ✅  
+- [Desafio 05 - Singleton](https://github.com/b01tech/balta-desafio-carnacode-2026_5-singleton.git)  ✅
+
+### Padrões Estruturais  
+
+- [Desafio 06 - Adapter](https://github.com/b01tech/balta-desafio-carnacode-2026_6-adapter.git) ✅  
+- [Desafio 07 - Bridge](https://github.com/b01tech/balta-desafio-carnacode-2026_7-bridge.git)  ✅  
