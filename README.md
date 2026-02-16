@@ -26,4 +26,9 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 ### Padrões Estruturais  
 
 - [Desafio 06 - Adapter](https://github.com/b01tech/balta-desafio-carnacode-2026_6-adapter.git) ✅  
-- [Desafio 07 - Bridge](https://github.com/b01tech/balta-desafio-carnacode-2026_7-bridge.git)  ✅  
+- [Desafio 07 - Bridge](https://github.com/b01tech/balta-desafio-carnacode-2026_7-bridge.git)  ✅
+- [Desafio 08 - Composite](https://github.com/b01tech/balta-desafio-carnacode-2026_8-composite.git)  ✅
+- [Desafio 09 - Decorator](https://github.com/b01tech/balta-desafio-carnacode-2026_9-decorator.git)  ✅
+- [Desafio 10 - Facade](https://github.com/b01tech/balta-desafio-carnacode-2026_10-facade.git)  ✅
+- [Desafio 11 - Flyweight](https://github.com/b01tech/balta-desafio-carnacode-2026_11-flyweight.git)  ✅
+- [Desafio 12 - Proxy](https://github.com/b01tech/balta-desafio-carnacode-2026_12-proxy.git)  ✅
