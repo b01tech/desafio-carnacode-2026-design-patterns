@@ -32,3 +32,10 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 - [Desafio 10 - Facade](https://github.com/b01tech/balta-desafio-carnacode-2026_10-facade.git)  ✅
 - [Desafio 11 - Flyweight](https://github.com/b01tech/balta-desafio-carnacode-2026_11-flyweight.git)  ✅
 - [Desafio 12 - Proxy](https://github.com/b01tech/balta-desafio-carnacode-2026_12-proxy.git)  ✅
+
+### Padrões Comportamentais
+- [Desafio 13 - Chain of Responsability](https://github.com/b01tech/balta-desafio-carnacode-2026_13-chain-of-responsibility.git)  ✅
+- [Desafio 14 - Command](https://github.com/b01tech/balta-desafio-carnacode-2026_14-command.git)  ✅
+- Desafio 15 - Interpreter ❌  
+- [Desafio 16 - Iterator](https://github.com/b01tech/balta-desafio-carnacode-2026_16-iterator.git)  ✅
+- [Desafio 17 - Mediator](https://github.com/b01tech/balta-desafio-carnacode-2026_17-mediator.git)  ✅
