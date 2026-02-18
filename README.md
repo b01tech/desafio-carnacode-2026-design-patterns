@@ -36,6 +36,12 @@ Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fu
 ### Padrões Comportamentais
 - [Desafio 13 - Chain of Responsability](https://github.com/b01tech/balta-desafio-carnacode-2026_13-chain-of-responsibility.git)  ✅
 - [Desafio 14 - Command](https://github.com/b01tech/balta-desafio-carnacode-2026_14-command.git)  ✅
-- Desafio 15 - Interpreter ❌  
+- [Desafio 15 - Interpreter](https://github.com/b01tech/balta-desafio-carnacode-2026_15-interpreter.git) ✅
 - [Desafio 16 - Iterator](https://github.com/b01tech/balta-desafio-carnacode-2026_16-iterator.git)  ✅
 - [Desafio 17 - Mediator](https://github.com/b01tech/balta-desafio-carnacode-2026_17-mediator.git)  ✅
+- [Desafio 18 - Memento](https://github.com/b01tech/balta-desafio-carnacode-2026_18-memento.git)  ✅
+- [Desafio 19 - Observer](https://github.com/b01tech/balta-desafio-carnacode-2026_19-observer.git)  ✅
+- [Desafio 20 - State](https://github.com/b01tech/balta-desafio-carnacode-2026_20-state.git)  ✅
+- [Desafio 21 - Strategy](https://github.com/b01tech/balta-desafio-carnacode-2026_21-strategy.git)  ✅
+- [Desafio 22 - Template Method](https://github.com/b01tech/balta-desafio-carnacode-2026_22-template-method.git)  ✅
+- [Desafio 23 - Visitor](https://github.com/b01tech/balta-desafio-carnacode-2026_23-visitor.git)  ✅
